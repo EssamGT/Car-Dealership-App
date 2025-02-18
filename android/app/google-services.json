@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "405431192912",
+    "project_id": "delarship-adf14",
+    "storage_bucket": "delarship-adf14.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:405431192912:android:054a71de7f6464e34af055",
+        "android_client_info": {
+          "package_name": "com.example.delarship"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "405431192912-2qvq8bjt34g6dieltbdg0oq8bh4ujvsv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.delarship",
+            "certificate_hash": "ff52af1bcc5c1758416c11477e27bd59d87275e5"
+          }
+        },
+        {
+          "client_id": "405431192912-ppqc4nkncc3o87a0kd84f485g3ui31io.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAok-W2sYf2U4CpPVtHJhaBa7857KX3Q98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "405431192912-ppqc4nkncc3o87a0kd84f485g3ui31io.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "405431192912-9e0vvv566pmt60u0pcv6vkhgiampfci7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.delarship"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
